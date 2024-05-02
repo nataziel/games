@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Valley Resistance.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Valley Resistance.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Valley Resistance.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Valley Resistance.md"
+                "file": "README.md"
               }
             }
           }
@@ -147,9 +147,10 @@
   },
   "active": "ca6b7ec286de335b",
   "lastOpenFiles": [
+    "README.md",
+    "Valley Resistance.md",
     "Siege.md",
     "Matrix Games.md",
-    "Valley Resistance.md",
     "A Visit to San Sibilia.md",
     "Character.md",
     "Day 1.md",
