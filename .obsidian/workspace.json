@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Visit to San Sibilia.md",
+                "file": "Day 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,14 +85,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Visit to San Sibilia.md",
+                "file": "Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A Visit to San Sibilia.md",
+                "file": "Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A Visit to San Sibilia.md"
+                "file": "Day 1.md"
               }
             }
           }
@@ -147,15 +147,15 @@
   },
   "active": "ca6b7ec286de335b",
   "lastOpenFiles": [
+    "A Visit to San Sibilia.md",
+    "Day 1.md",
+    "San Sibilia.md",
+    "Character.md",
     "README.md",
     "Matrix Games.md",
     "Emperor Tarkin.md",
     "Valley Resistance.md",
-    "San Sibilia.md",
     "Siege.md",
-    "A Visit to San Sibilia.md",
-    "Character.md",
-    "Day 1.md",
     "Untitled.canvas"
   ]
 }
