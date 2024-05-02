@@ -1,5 +1,8 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "cssTheme": "Catppuccin"
+  "cssTheme": "Catppuccin",
+  "interfaceFontFamily": "Hack Nerd Font",
+  "textFontFamily": "Hack Nerd Font",
+  "monospaceFontFamily": "Hack Nerd Font Mono"
 }
