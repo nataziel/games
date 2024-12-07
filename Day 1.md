@@ -14,4 +14,4 @@ A nice enough bloke, the baker. Acted like we'd known each other for years, reca
 
 The proprietor of the incensory was frightfully rude when it came time to fix up, the bastard extorted me for 4 crabs, prattling about how they're not 'legal tender' here. He flatly refused to pick up the ones showing heads until I flipped them over. Not a fan of the emperor perhaps.
 
-Tomorrow's mission, aside from cleaning out this pigsty, is to replenish the supplies I depleted on the way over and make contact with Brother Marcus, who failed to meet me at the docks on arrival as the abbot had advised me he would. Wish me luck!
+Tomorrow's mission, aside from cleaning out this pigsty, is to replenish the supplies I depleted on the way over and make contact with [[Brother Marcus]], who failed to meet me at the docks on arrival as the abbot had advised me he would. Wish me luck!

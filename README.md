@@ -4,3 +4,5 @@ This is an obsidian vault in which I'll be storing any TTRPG related stuff I wri
 [[A Visit to San Sibilia]]
 
 [[Matrix Games]]
+
+[[Fight with Spirit]]
