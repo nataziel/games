@@ -1,1 +1,4 @@
-I finally found 
+I thought I'd finally tracked down [[Brother Marcus]], getting anyone in this city to admit they'd even heard of the order was like pulling teeth. I overheard a young woman holding court in a coffee house, lecturing a gaggle of dilettantes about 'esoteric religions', recounting her experience conversing with my erstwhile brother at the 'temple' in [[Saint Riocha]]. Disappointingly, she quickly veered onto other topics. I stayed long enough to finish my brew of course and by that time the temple canton had shut its gates for the day.
+
+I hastened home and made my preparations to be there early this morning, even securing a gondolier to skip the lineups of early morning devotees making their observances in order to pass through the canton gates. Something about arriving via water means you don't have to do the whole shoe-and-body cleansing rigmarole. Of course, by the next morning the polesman I had retained the services of not 12 hours earlier was nowhere to be found, so again it was top dollar on short notice to get anything done in this blasted city!
+

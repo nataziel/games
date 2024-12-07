@@ -1,9 +1,9 @@
 Playing the game [A Visit to San Sibilia](https://jimmyshelter.itch.io/a-visit-to-san-sibilia)
 
-[[Character]] - Albert - Curious Missionary
+[[Character - Albert]] - Curious Missionary
 
-[[San Sibilia]] - the city
-[[Emperor Tarkin]] 
+[[San Sibilia]]
+[[Emperor Tarkin]]
 [[Floriades]]
 [[Saltspray]]
 
