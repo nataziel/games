@@ -1,0 +1,1 @@
+Imperial honours/rank. Similar to stars for generals

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c2faf4d67011023d",
+        "id": "1175b032d9a705c8",
         "type": "tabs",
         "children": [
           {
-            "id": "b22d0b379f2faae2",
+            "id": "0833efe9ed265baf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fight with Spirit.md",
+                "file": "A Visit to San Sibilia.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fight with Spirit.md",
+                "file": "A Visit to San Sibilia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fight with Spirit.md",
+                "file": "A Visit to San Sibilia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fight with Spirit.md"
+                "file": "A Visit to San Sibilia.md"
               }
             }
           }
@@ -145,13 +145,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b22d0b379f2faae2",
+  "active": "0833efe9ed265baf",
   "lastOpenFiles": [
-    "A Visit to San Sibilia.md",
-    "Fight with Spirit.md",
-    "Day 1.md",
-    "San Sibilia.md",
     "Character.md",
+    "Day 3.md",
+    "A Visit to San Sibilia.md",
+    "Day 1.md",
+    "Floriades.md",
+    "Saltspray.md",
+    "Fight with Spirit.md",
+    "San Sibilia.md",
     "README.md",
     "Matrix Games.md",
     "Emperor Tarkin.md",
